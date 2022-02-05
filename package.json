@@ -1,5 +1,5 @@
 {
-  "name": "monorepo",
+  "name": "mymonoproject",
   "private": true,
   "workspaces": {
     "packages": [
@@ -8,7 +8,7 @@
     "nohoist": []
   },
   "dependencies": {
-    "react-native": "0.66.3"
+    "react-native": "0.67.2"
   },
   "devDependencies": {
     "@react-native-community/eslint-config": "2.0.0",
